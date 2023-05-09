@@ -1,8 +1,8 @@
 {
   "todos": [
-    { "id": 1, "title": "present group work", "isComplete": false },
-    { "id": 2, "title": "play Valorant", "isComplete": true },
-    { "id": 3, "title": "play Lol", "isComplete": true },
-    { "id": 4, "title": "read some books", "isComplete": false }
+    { "id": 1, "name": "present group work", "isDone": false },
+    { "id": 2, "name": "play Valorant", "isDone": true },
+    { "id": 3, "name": "play Lol", "isDone": true },
+    { "id": 4, "name": "read some books", "isDone": false }
   ]
 }
